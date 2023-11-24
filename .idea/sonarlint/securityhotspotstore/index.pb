@@ -108,3 +108,11 @@ x
 Happ/src/main/java/com/jose/arcos/poketinder/ui/holder/MyPokemonHolder.kt,c\4\c421536d9e26045b331fffa92e145eaf46362305
 {
 Kapp/src/main/java/com/jose/arcos/poketinder/ui/adapter/MyPokemonsAdapter.kt,9\a\9acc4574b6554bffa83ad90d9a7da0e0c977f6e0
+x
+Happ/src/main/java/com/jose/arcos/poketinder/ui/adapter/PokemonAdapter.kt,4\9\496bdeb795be6441d078d5ba8cffc708d34793b6
+s
+Capp/src/main/java/com/jose/arcos/poketinder/ui/view/BaseActivity.kt,4\f\4fa5f3f55df0afa32b7fe0973b071e2a8cc6c92c
+{
+Kapp/src/main/java/com/jose/arcos/poketinder/ui/viewmodel/SplashViewModel.kt,5\4\543f6c26accb494b3b3d151025d6de66459e3246
+Š
+Zapp/src/main/java/com/jose/arcos/poketinder/data/network/FirebaseRemoteConfigRepository.kt,c\d\cdee0c968a8c8f01d5432de4253897a09d9cf00a

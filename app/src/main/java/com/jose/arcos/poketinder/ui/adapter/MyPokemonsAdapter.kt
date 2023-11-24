@@ -12,9 +12,7 @@ class MyPokemonsAdapter(val list: List<MyPokemonEntity>): RecyclerView.Adapter<M
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): MyPokemonHolder {
         val view = ItemPokemonSavedBinding.inflate(LayoutInflater.from(parent.context), parent, false)
-        //val view = parent.inflate(R.layout.item_pokemon_saved)
         return MyPokemonHolder(view.root)
-        //return MyPokemonHolder(view)
     }
 
     override fun getItemCount(): Int = list.size

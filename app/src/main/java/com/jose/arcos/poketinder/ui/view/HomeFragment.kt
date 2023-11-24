@@ -10,6 +10,7 @@ import androidx.recyclerview.widget.DefaultItemAnimator
 import com.jose.arcos.poketinder.data.model.PokemonResponse
 import com.jose.arcos.poketinder.databinding.FragmentHomeBinding
 import com.jose.arcos.poketinder.ui.adapter.PokemonAdapter
+import com.jose.arcos.poketinder.ui.viewmodel.FavoriteViewModel
 import com.jose.arcos.poketinder.ui.viewmodel.HomeViewModel
 import com.yuyakaido.android.cardstackview.CardStackLayoutManager
 import com.yuyakaido.android.cardstackview.CardStackListener
